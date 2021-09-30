@@ -1,2 +1,2 @@
-# Neural-Quantum-State-Restricted-boltzmann-machine
+# Neural-Quantum-State-RBM
 Programa que calcula el valor del estado fundamental de energia, de un sistema cuántico utilizando como método, machine learning, especificamente se utiliza como red neuronal las Restricted Boltzmann Machine (RBM) la cual es un modelo de grafo bipartito,se utiliza un metodo de aprendizaje no supervisado, donde se optimiza una funcion energia que incluye (como toda red neuronal) unidades visibles y ocultas,bias y pesos de interaccion.
